@@ -1,0 +1,7 @@
+## tycho automatic module detection 2a6f7efa-b7c4-4723-85bd-d759d148fe98
+com.vogella.logging.config
+com.vogella.tycho.p2.ui
+com.vogella.tycho.platform
+com.vogella.tycho.platform.linux
+com.vogella.tycho.plugin1
+com.vogella.tycho.rcp
